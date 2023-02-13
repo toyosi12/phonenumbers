@@ -13,3 +13,5 @@ require (
 )
 
 go 1.18
+
+replace github.com/nyaruka/phonenumbers => github.com/toyosi12/phonenumbers v1.1.5
